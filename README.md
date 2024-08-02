@@ -43,7 +43,7 @@ Based on the analysis the best playing 11
 - The variables are given meaningful names which truly represent the context of the problem
 - Clear and explainable comments are added 
 - The variable name follow the **Snake Case** naming convention.
-```
+
 ---
 # Authors
  - [VHkrishnan0591](https://github.com/VHkrishnan0591)
